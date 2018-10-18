@@ -1,4 +1,4 @@
-based on sqlparse (python)(link https://github.com/PyMySQL/PyMySQL)
+based on sqlparse (python)(link https://github.com/andialbrecht/sqlparse)
 ```
 for 
 	- insert
